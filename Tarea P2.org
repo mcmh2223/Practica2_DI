@@ -18,7 +18,7 @@ La guía de estilos deberá incluir:
 - Cualquier otra información considerada de interés.
 
 ** Formato de la entrega
-- Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal. Dicho repositorio se creará automáticamente al hacer clic en el enlace y aceptar la tarea (/assignment/).
+- Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal. Dicho repositorio se creará automáticamente al hacer fclic en el enlace y aceptar la tarea (/assignment/).
 - Todos los archivos de la práctica se guardarán en el repositorio y se subirán a GitHub periódicamente. Es conveniente ir subiendo los cambios aunque no sean definitivos.
 - La guía de estilos se realizará en cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
 - La guía debe ser breve (*no más de 3 páginas*) y estar correctamente maquetada.
