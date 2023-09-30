@@ -18,8 +18,9 @@ La guía de estilos deberá incluir:
 - Cualquier otra información considerada de interés.
 
 ** Formato de la entrega
-- Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal. Dicho repositorio se creará haciendo un folk en el repositorio https://github.com/DI-23-24/Practica2
-- Todos los archivos de la práctica se guardarán en el repositorio y se subirán a GitHub periódicamente. Es conveniente ir subiendo los cambios aunque no sean definitivos.
+- Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal. Dicho repositorio se creará haciendo un fork en el repositorio https://github.com/DI-23-24/Practica2
+- Realiza un primer commit para poner tu nombre y apellidos en el fichero README.md
+- Todos los archivos de la práctica se guardarán en el repositorio.
 - La guía de estilos se realizará en cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
 - La guía debe ser breve (*no más de 3 páginas*) y estar correctamente maquetada.
 - Se deberá incluir el *logo* en formato ~SVG~ y ~PNG~ dentro del repositorio.
