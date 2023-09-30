@@ -4,7 +4,7 @@ El objetivo de esta práctica es crear una pequeña guía de estilos siguiendo l
 - https://pedroprieto.github.io/post/planificacion-guia-estilo/
 
 ** Temática
-La guía de estilos se creará para una aplicación de temática a vuestra elección, por ejemplo una API para la gestión de usuarios de una agencia de viajes o una tienda online.
+La guía de estilos se creará para una aplicación de temática a vuestra elección, por ejemplo una API para la gestión de usuarios de una agencia de viajes, una tienda online, ...
 
 ** Contenidos
 La guía de estilos deberá incluir:
